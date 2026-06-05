@@ -15,7 +15,7 @@ The project only requires the .NET SDK. All other package dependencies will be r
 Clone the repository and run the application using the .NET CLI.
 
 # Clone the repository
-git clone https://github.com[your-username]/[your-repo-name].git
+git clone [https://github.com/lino09foxy/CS20200_20240527-EYEBALLRESCUE.git]
 cd EyeballRescue
 # Run the project
 dotnet run
