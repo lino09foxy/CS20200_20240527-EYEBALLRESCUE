@@ -13,6 +13,7 @@ The project only requires the .NET SDK. All other package dependencies will be r
 
 ## How to Run
 Clone the repository and run the application using the .NET CLI.
+이곳에 없는 정보는 PDF를 참고해 주세요!("For details not found here, please refer to the PDF!")
 
 # Clone the repository
 git clone [https://github.com/lino09foxy/CS20200_20240527-EYEBALLRESCUE.git]
